@@ -5,7 +5,7 @@ It draws a labelled Gantt chart (including idle intervals and numbered RR time s
 first start, completion, turnaround, waiting and response times, and their averages. It also shows a step-by-step
 decision trace and runs five correctness checks automatically on every simulation.
 
-**Live site:** `https://<your-github-username>.github.io/cse513-cpu-scheduler/` (replace this with your own link after publishing)
+**Live site:** `[https://<your-github-username>.github.io/cse513-cpu-scheduler/](https://kevserozturk.github.io/CSE513_OperatingSystem/)`
 
 ## Run locally
 
